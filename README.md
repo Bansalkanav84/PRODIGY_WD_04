@@ -1,1 +1,1 @@
-# PRODIGY_WD_04
+This repo contains code for a responsive weather webapp
